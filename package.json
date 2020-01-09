@@ -26,6 +26,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@gapi/core": "^1.8.21",
     "@hapi/hapi": "^18.3.0",
     "@leizm/web": "^2.6.0",
     "apollo-opentracing": "^1.4.2",
